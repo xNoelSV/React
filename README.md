@@ -42,8 +42,8 @@
 
 ## Autor
 
-Este repositorio es mantenido por Noel Sariñena Varela(<a href="https://portafoliodenoel.netlify.app/">portafolio</a>.
+Este repositorio es mantenido por Noel Sariñena Varela(<a href="https://portafoliodenoel.netlify.app/">portafolio</a>).
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT](enlace-a-licencia).
+Este proyecto está bajo la Licencia [MIT].
