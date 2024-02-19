@@ -1,16 +1,14 @@
-
+import Formulario from "./components/Formulario";
+import Header from "./components/Header";
+import ListadoPacientes from "./components/ListadoPacientes";
 
 function App() {
+
   return (
-    <> // Debe tener 
-      <div>
-        <h1>Hola mundo</h1>
-        <p>Un párrafo</p>
-      </div>
-      <div>
-        <h1>Hola mundo</h1>
-        <p>Un párrafo</p>
-      </div>
+    <> 
+      <Header />
+      <Formulario />
+      <ListadoPacientes />
     </>
   )
 }
