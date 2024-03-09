@@ -2,6 +2,12 @@
 
 Esta es una aplicación de control de gastos desarrollada con ReactJS que te permite llevar un registro de tus gastos. Puedes introducir tu presupuesto inicial y luego añadir gastos, los cuales se deducirán de tu presupuesto. Además, la aplicación te permite filtrar los gastos en la lista donde se muestran. Utiliza las características principales de ReactJS como `useState`, `useEffect` y otros módulos de npm para una experiencia de usuario fluida y eficiente.
 
+## Página del proyecto
+
+Accede a la página web del proyecto y pruébalo tu mismo a través del siguiente link:
+
+[https://citas-veterinaria-noel.netlify.app/](https://calculadora-presupuesto-noel.netlify.app/)
+
 ## Características principales
 
 - **Registro de presupuesto inicial:** Introduce tu presupuesto inicial y comienza a registrar tus gastos.
