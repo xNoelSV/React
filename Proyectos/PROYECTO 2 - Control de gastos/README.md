@@ -6,7 +6,7 @@ Esta es una aplicación de control de gastos desarrollada con ReactJS que te per
 
 Accede a la página web del proyecto y pruébalo tu mismo a través del siguiente link:
 
-[https://citas-veterinaria-noel.netlify.app/](https://calculadora-presupuesto-noel.netlify.app/)
+https://calculadora-presupuesto-noel.netlify.app/
 
 ## Características principales
 
