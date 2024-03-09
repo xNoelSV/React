@@ -45,7 +45,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 
 ## Autor
 
-Este proyecto fue desarrollado por [Tu Nombre] y está disponible bajo la licencia [Licencia]. Puedes encontrar más información en el archivo `LICENSE`.
+Este proyecto fue desarrollado por Noel Sariñena.
 
 ---
 
