@@ -23,6 +23,23 @@ Esta es una aplicación de control de gastos desarrollada con ReactJS que te per
 2. Navega al directorio del proyecto.
 3. Ejecuta `npm install` para instalar todas las dependencias.
 
+## Uso
+
+- Al acceder al sitio web, los usuarios pueden ver las citas programadas.
+- Para agregar una nueva cita, haga clic en el botón "Agregar cita" y complete el formulario con la información requerida.
+- Las citas se almacenan localmente en el navegador utilizando localStorage, por lo que persisten incluso después de recargar la página.
+- Los usuarios pueden eliminar citas existentes haciendo clic en el botón de eliminar asociado a cada cita.
+
+## Estructura del Proyecto
+
+La estructura del proyecto está organizada de la siguiente manera:
+
+- `src/` - Contiene todos los archivos fuente del proyecto.
+- `components/` - Componentes de React utilizados en la aplicación.
+- `App.js` - Punto de entrada principal de la aplicación.
+- `index.js` - Archivo de inicio de la aplicación.
+- `public/` - Archivos estáticos accesibles públicamente.
+
 ## Contribución
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, siéntete libre de enviar pull requests. Antes de realizar cambios importantes, por favor, abre un issue para discutir qué te gustaría cambiar.
