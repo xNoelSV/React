@@ -24,13 +24,21 @@ Accede a la página web del proyecto y pruébalo tu mismo a través del siguient
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
-   `git clone https://github.com/xNoelSV/React`
+   ```bash
+   git clone https://github.com/xNoelSV/React
+   ```
 2. Navega al directorio del proyecto:
-   `cd '.\PROYECTO 3 - Cotizador Criptomonedas\criptos-react\'`
+   ```bash
+   cd '.\PROYECTO 3 - Cotizador Criptomonedas\criptos-react\'
+   ```
 3. Instala las dependencias:
-   `npm install`
+   ```bash
+   npm install
+   ```
 4. Inicia la aplicación:
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
 
 ## Uso
 
