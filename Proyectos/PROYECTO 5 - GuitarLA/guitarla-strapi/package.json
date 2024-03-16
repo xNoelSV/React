@@ -2,7 +2,7 @@
   "name": "guitarla-strapi",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "E-commerce de guitarras.",
   "scripts": {
     "develop": "strapi develop",
     "dev": "strapi develop",
@@ -23,7 +23,7 @@
     "styled-components": "5.3.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "xNoelSV"
   },
   "strapi": {
     "uuid": "ea3c838e-6005-4555-9741-c2dcb2e95cd5"
