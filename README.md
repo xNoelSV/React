@@ -5,6 +5,7 @@
 ## Tecnologías y Conceptos Cubiertos
 
 - **React.js**: El corazón de todos los proyectos, utilizando componentes reutilizables y un enfoque declarativo para construir interfaces de usuario dinámicas.
+- **TypeScript**: El lenguaje de programación que se usará para la mayoría de proyectos de este repositorio
 - **Server-Side Rendering (SSR)**: Implementación de renderizado en el servidor para mejorar el rendimiento y la indexación de motores de búsqueda.
 - **Gatsby**: Creación de sitios web estáticos y aplicaciones web utilizando React y GraphQL.
 - **Next.js**: Framework de React.js que permite renderizado del lado del servidor y funcionalidades como enrutamiento y preprocesamiento.
