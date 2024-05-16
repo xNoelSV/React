@@ -4,6 +4,31 @@
 
 ## Tecnologías y Conceptos Cubiertos
 
+- **Context API**: Context API es una característica de React que permite pasar datos a través del árbol de componentes sin tener que pasar props manualmente en cada nivel. Facilita el manejo del estado global de la aplicación.
+
+- **MERN**: MERN es un stack de desarrollo web compuesto por MongoDB, Express.js, React y Node.js. Este conjunto de tecnologías permite construir aplicaciones web full-stack, desde el front-end hasta el back-end.
+
+- **Hooks**: Los Hooks son una característica de React que permite usar el estado y otras funcionalidades de React sin escribir clases. Los Hooks más comunes incluyen `useState`, `useEffect`, `useContext`, entre otros.
+
+- **Firestore**: Firestore es una base de datos NoSQL en tiempo real ofrecida por Firebase. Es escalable y flexible, y permite almacenar y sincronizar datos entre usuarios y dispositivos en tiempo real.
+
+- **JWT**: JSON Web Token (JWT) es un estándar para crear tokens de acceso que permiten la autenticación y el intercambio seguro de información entre partes. Es comúnmente usado en la autenticación de APIs.
+
+- **Testing**: Testing en desarrollo de software implica escribir pruebas que aseguren que el código funciona correctamente. Hay diferentes tipos de pruebas como unitarias, de integración y end-to-end, usando herramientas como Jest, Mocha, y otros.
+
+- **Autenticaciones**: La autenticación es el proceso de verificar la identidad de un usuario. Esto puede incluir métodos como contraseñas, OAuth, y JWT para garantizar que solo los usuarios autorizados puedan acceder a ciertos recursos.
+
+- **Despliegues**: El despliegue es el proceso de llevar una aplicación desde el entorno de desarrollo hasta un entorno de producción. Incluye prácticas como configuración de servidores, CI/CD (Integración Continua/Despliegue Continuo), y uso de plataformas como Heroku, Vercel o AWS.
+
+- **CRUD**: CRUD se refiere a las operaciones básicas de almacenamiento persistente: Crear (Create), Leer (Read), Actualizar (Update) y Eliminar (Delete). Son fundamentales en cualquier aplicación que maneje datos.
+
+- **Logs**: Los logs son registros de eventos que ocurren en una aplicación. Son esenciales para el monitoreo, depuración y mantenimiento de sistemas, ayudando a identificar problemas y entender el comportamiento de la aplicación.
+
+- **MUI**: Material-UI (MUI) es una biblioteca de componentes de interfaz de usuario para React que implementa los principios de Material Design de Google. Proporciona componentes personalizables y estilizados para construir interfaces de usuario modernas.
+
+- **Multiple Routers**: El uso de múltiples routers en una aplicación web permite manejar diferentes rutas y subrutas de manera eficiente. En React, esto se maneja comúnmente con la biblioteca React Router, que facilita la navegación y organización del contenido basado en rutas.
+
+<!--
 - **React.js**: El corazón de todos los proyectos, utilizando componentes reutilizables y un enfoque declarativo para construir interfaces de usuario dinámicas.
 - **TypeScript**: El lenguaje de programación que se usará para la mayoría de proyectos de este repositorio
 - **Server-Side Rendering (SSR)**: Implementación de renderizado en el servidor para mejorar el rendimiento y la indexación de motores de búsqueda.
@@ -17,7 +42,7 @@
 - **Node.js y Express**: Creación de servidores backend utilizando Node.js y Express.js.
 - **MongoDB**: Base de datos NoSQL para almacenamiento de datos flexible y escalable.
 - **Netlify y Vercel**: Plataformas de alojamiento y despliegue para aplicaciones web estáticas y dinámicas.
-
+-->
 ## Lista de Proyectos
 
 <!--
