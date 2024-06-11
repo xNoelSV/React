@@ -4,4 +4,4 @@ export function getSaludo(nombre) {
 
 const nombre = 'Noel';
 
-console.log( `Este es un texto: ${ getSaludo( nombre ) }  ` );
+console.log( `Este es un texto: ${ getSaludo( nombre ) }` );
