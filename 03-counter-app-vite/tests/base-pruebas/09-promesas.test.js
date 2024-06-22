@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const { getHeroeByIdAsync } = require("../../src/base-pruebas/09-promesas");
 
 describe('Pruebas en 09-promesas', () => {
