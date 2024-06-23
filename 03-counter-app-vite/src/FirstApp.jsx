@@ -12,7 +12,7 @@ const newMessage = {
   title: 'Noel'
 }
 
-const FirstApp = ({ title, subTitle, name }) => {  
+export const FirstApp = ({ title, subTitle, name }) => {  
   return (
     <>
       {/* <h1>{ getMessage() }</h1> */}
@@ -35,5 +35,3 @@ FirstApp.defaultProps = {
   subTitle: 'No hay subtitulo',
   name: 'Noel Sariñena'
 }
-
-export default FirstApp
